@@ -1,4 +1,6 @@
 # Python programming examples
 
-a handfull of simple examples of how python is used.
+a handful of simple examples of how python is used.
 currently a work in progress.
+
+feel free to help out and provide your own examples if you want to!
